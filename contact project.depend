@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1647175982 source:d:\’Ê— »—„ÃÂ\contact project\main.cpp
+	<iostream>
+	"contacts.h"
+
+1647175982 d:\’Ê— »—„ÃÂ\contact project\include\contacts.h
+	"user.h"
+	<string>
+
+1647175982 d:\’Ê— »—„ÃÂ\contact project\include\user.h
+	<ctime>
+	<string>
+	<iostream>
+	"phone.h"
+	"email.h"
+	"address.h"
+
+1647175982 d:\’Ê— »—„ÃÂ\contact project\include\phone.h
+	<string>
+	<iostream>
+
+1647175982 d:\’Ê— »—„ÃÂ\contact project\include\email.h
+	<string>
+	<iostream>
+
+1647175982 d:\’Ê— »—„ÃÂ\contact project\include\address.h
+	<string>
+	<iostream>
+
+1647175982 source:d:\’Ê— »—„ÃÂ\contact project\src\address.cpp
+	"address.h"
+
+1647175982 source:d:\’Ê— »—„ÃÂ\contact project\src\contacts.cpp
+	"contacts.h"
+
+1647175982 source:d:\’Ê— »—„ÃÂ\contact project\src\email.cpp
+	"email.h"
+
+1647175982 source:d:\’Ê— »—„ÃÂ\contact project\src\user.cpp
+	"user.h"
+
+1647176094 source:d:\’Ê— »—„ÃÂ\contact project\src\phone.cpp
+	"phone.h"
+
